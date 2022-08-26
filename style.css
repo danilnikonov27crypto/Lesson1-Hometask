@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+    color: black;
+    background: aquamarine;
+}
+p.Family {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+p.Homer{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+p.Lisa{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+img.Family{
+    display: block;
+    margin: 0 auto;
+}
+
+img.Homer{
+    display: block;
+    margin: 0 auto
+}
+
+img.Lisa{
+    display: block;
+    margin: 0 auto;
+}
+
+img{
+    width: 200px;
+}
